@@ -1,6 +1,6 @@
 # Snake Game
 
-A classic Snake game implemented in C++ for the terminal. Control a snake to eat food, grow longer, and score points while avoiding collisions with the walls or your own tail. Created by **Satya Nihal Kodukula** to make use of low-level programming knowledge learnt in **CISC 221, Computer Architecture.**
+A classic Snake game implemented in C++ for the terminal. Control a snake to eat food, grow longer, and score points while avoiding collisions with the walls or your own tail. Created by **Satya Nihal Kodukula** to make use of low-level programming knowledge learnt in **CISC 221, Computer Architecture.** Inspired by https://www.geeksforgeeks.org/snake-code-cpp/?ref=gcse_outind.
 
 ## Features
 
